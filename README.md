@@ -12,12 +12,12 @@ A customizable and reusable **notification system** built with **React**, **Type
 ## 📂 Project Structure
 
 ├── components/
-│    ├── Alert.tsx
-│    ├── Toast.tsx
-│    ├── ErrorMessage.tsx
-│    ├── Snackbar.tsx
-│    ├── NotificationContainer.tsx
-│    └── NotificationDemo.tsx
+│   ├── Alert.tsx
+│   ├── Toast.tsx
+│   ├── ErrorMessage.tsx
+│   ├── Snackbar.tsx
+│   ├── NotificationContainer.tsx
+│   └── NotificationDemo.tsx
 ├── context/
 │   └── NotificationContext.tsx
 ├── types/
